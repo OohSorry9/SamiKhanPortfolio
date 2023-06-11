@@ -197,7 +197,7 @@ main .right {
     gap: 40px;
 }
 .underline {
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid white;
 }
 
 .skills ul li {
