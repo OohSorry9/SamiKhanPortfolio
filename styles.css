@@ -149,6 +149,7 @@ main .right {
     gap: 20px;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 
 }
 
@@ -197,7 +198,7 @@ main .right {
     gap: 40px;
 }
 .underline {
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid red;
 }
 
 .skills ul li {
